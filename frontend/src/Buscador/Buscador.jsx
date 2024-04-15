@@ -46,7 +46,7 @@ const Buscador = () => {
         </div>
       )}
       <div className='linkC'>
-      <a className='link' href="https://www.youtube.com">Repositorio Github del Mini-Core</a>
+      <a className='link' href="https://github.com/GustaviniTini/MVCPasado.git">Repositorio Github del Mini-Core</a>
       </div>
     </div>
     

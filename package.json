@@ -1,4 +1,6 @@
 {
+  "start": "node ./node_modules/react-scripts/bin/react-scripts.js start",
+
   "dependencies": {
     "react-scripts": "^5.0.1"
   }
